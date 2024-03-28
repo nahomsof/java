@@ -1,4 +1,4 @@
-public class Shufflle1 {
+public class Shuffle2 {
     public static void main(String[] args){
         int x = 3;
         while(x > 0){
@@ -18,7 +18,4 @@ public class Shufflle1 {
             }
         }
         }
-
-    }
-    
-
+}
